@@ -19,7 +19,6 @@ A comprehensive mobile-first financial empowerment platform designed specificall
 - Tailwind CSS
 - Chart.js
 - Framer Motion
-- OpenAI API
 - Supabase
 - i18next
 
@@ -27,7 +26,6 @@ A comprehensive mobile-first financial empowerment platform designed specificall
 - Node.js (v14 or higher)
 - npm or yarn
 - Supabase account
-- OpenAI API key
 
 ## Project Structure
 ```
